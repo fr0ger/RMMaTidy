@@ -1,0 +1,12 @@
+[project]
+name = "tidy3d-band"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.4",
+    "tidy3d>=2.11.1",
+]
